@@ -18,6 +18,14 @@
             <option value="$PROJECT_DIR$/Bulls and Cows/task/build/test-results" />
             <option value="$PROJECT_DIR$/Bulls and Cows/task/build/tmp" />
             <option value="$PROJECT_DIR$/Bulls and Cows/task/out" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Assertion" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Best practices" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Development approach" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Different techniques" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Find the error" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Log events" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/Catch all exceptions" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/Catching some exceptions" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/Determine a block for handling exceptions" />
@@ -26,6 +34,12 @@
             <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/What does the code print" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/What exceptions can be handled" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Balance management" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Directions" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Java Enum Fields and Methods" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Robot control" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/System of units" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Theory" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Determine the result" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />

@@ -1,29 +1,29 @@
 type: matching
 captions:
-- Assertion
-- Debugger
-- Logging
+  - Assertion
+  - Debugger
+  - Logging
 options:
-- The technique that involves writing runtime events to the console or a file
-- A tool that allows you to get detailed information about the program while it is
-  running
-- A boolean expression that throws an error when some condition is not met
+  - The technique that involves writing runtime events to the console or a file
+  - A tool that allows you to get detailed information about the program while it is
+    running
+  - A boolean expression that throws an error when some condition is not met
 files:
-- name: src/Task.java
-  visible: true
-  text: |
-    // You can experiment here, it won’t be checked
-
-    public class Task {
-      public static void main(String[] args) {
-        // put your code here
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
       }
-    }
-  learner_created: false
+    learner_created: false
 feedback_link: https://hyperskill.org/learn/step/13783#comment
 status: Solved
 record: -1
 ordering:
-- 0
-- 1
-- 2
+  - 0
+  - 1
+  - 2
